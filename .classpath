@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/AK/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hitesh_genrosys/VAS/PartnerReport/PartnerReport/WebContent/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Hitesh_genrosys/VAS/PartnerReport/PartnerReport/WebContent/WEB-INF/lib/xuggle-xuggler-3.0.660.jar"/>
+	<classpathentry kind="lib" path="D:/AK/E/jar file/apache-http.jar" sourcepath="WebContent/WEB-INF/lib/apache-http.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJava8/Game4NG/WebContent/WEB-INF/lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJava8/Game4NG/WebContent/WEB-INF/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJava8/Game4NG/WebContent/WEB-INF/lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJava8/FGRPortal/WebContent/WEB-INF/lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Hitesh_genrosys/VAS/Telkom/FGRPortal/New folder/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="E:/Hitesh_genrosys/VAS/Telkom/FGRPortal/New folder/java-json.jar"/>
+	<classpathentry kind="lib" path="E:/Hitesh_genrosys/VAS/Telkom/FGRPortal/New folder/json-1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
